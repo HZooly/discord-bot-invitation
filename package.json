@@ -1,0 +1,27 @@
+{
+  "name": "discord-bot-invitation",
+  "version": "1.0.0",
+  "description": "Generate a Discord Bot invitation link in a simple command",
+  "main": "index.js",
+  "bin": {
+    "discord-bot-invitation": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HZooly/discord-bot-invitation.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "link"
+  ],
+  "author": "torzuoli.hugo@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HZooly/discord-bot-invitation/issues"
+  },
+  "homepage": "https://github.com/HZooly/discord-bot-invitation#readme",
+  "dependencies": {
+    "clipboardy": "^1.2.3"
+  }
+}
